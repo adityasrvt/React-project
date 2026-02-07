@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [
     react(),
    ],
-  base: '/My-Projects-/' 
+   base: '/React-project/'
   
 })
