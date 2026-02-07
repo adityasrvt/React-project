@@ -8,7 +8,8 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/My-Projects-/">
+    <BrowserRouter basename="/React-project/">
+
       <AuthProvider>
         <CartProvider>
           <App />
